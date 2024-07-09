@@ -1,7 +1,9 @@
 # code-switch
 Detailed documentations can be found at `/docs`
 
+[**Presentation deck**](https://docs.google.com/presentation/d/13uWxpAWFavuKyr1DfOzvlxt5-G_cKaOuptlBIXy_Hb0/edit?usp=sharing)
 
+[**Final report**](https://docs.google.com/document/d/18t3TI3atPoh7W4YjA-WpjoS3OKz3TpcIsFBEaN-fjz8/edit?usp=sharing)
 
 ## Setup
 1. Install external dependencies if your system do no have them.
